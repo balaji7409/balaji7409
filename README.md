@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Web development seekers**
 
-- 💬 Ask me about **C#**
-
 - 📫 How to reach me **balajikolli6624@gmail.com**
 
 - ⚡ Fun fact **I create youtube videos**
